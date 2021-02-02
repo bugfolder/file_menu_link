@@ -1,0 +1,6 @@
+name = File Menu Link
+description = Supports creating menu links that are files (like PDFs)
+package = Other - OrigamiUSA
+backdrop = 1.x
+type = module
+version = 1.x-1.0
